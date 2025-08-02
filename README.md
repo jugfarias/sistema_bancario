@@ -22,12 +22,13 @@ Este projeto é uma aplicação simples em Python que simula um sistema bancári
 
 #### Menu Interativo:
 
-Interface simples para facilitar a navegação entre as operações:
+- Interface simples para facilitar a navegação entre as operações:
+```
 [1] Depositar
 [2] Sacar
 [3] Extrato
 [0] Sair
-
+```
 
 ## Como Executar o Projeto
 
