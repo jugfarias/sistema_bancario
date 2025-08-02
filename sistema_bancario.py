@@ -82,6 +82,7 @@ while True:
     # sair:
     elif operacao == 0:
         break
+    
     # operação inválida:
     else:
         print('Operação inválida! Por favor, selecione novamente a operação desejada.')
